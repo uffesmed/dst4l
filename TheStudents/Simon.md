@@ -1,3 +1,5 @@
 # Hi I'm Simon
 
-## I *really* like cats
+## I'm a bachelor student at IVA
+
+### I *really* like cats
